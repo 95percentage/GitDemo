@@ -5,3 +5,6 @@ this is my second to write...
 
 Learn branch
 
+Learn merge branch...
+
+merge failed
